@@ -29,5 +29,3 @@ $year = date('Y');
 echo "It is now the {$quarter} quarter of {$year}" . PHP_EOL;
 
 ```
-
-[![Total Downloads]]
